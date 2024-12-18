@@ -1,6 +1,7 @@
 # Spotify Clone
 
 This is a Spotify clone web application built using HTML, CSS, and JavaScript. It aims to replicate the core features of the Spotify music streaming service.
+Live demo: https://spotify-clone-phi-woad.vercel.app/
 
 ![Spotify Clone](https://i.ibb.co/sRj9jcW/spotify-banner.png)
 
